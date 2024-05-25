@@ -1,5 +1,5 @@
 
-# Web Application Project
+# User Content Management System Project
 
 This project is a web application developed using PHP and MySQL, intended to be set up locally using XAMPP.
 
